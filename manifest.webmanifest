@@ -1,0 +1,16 @@
+{
+  "name": "여행 일본어 3분",
+  "short_name": "여행일본어",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7fbff",
+  "theme_color": "#72b7ff",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
